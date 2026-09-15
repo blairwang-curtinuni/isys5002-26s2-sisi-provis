@@ -1,0 +1,16 @@
+date,city,temperature,humidity,conditions
+2025-06-01,Perth,17.2,62,Sunny
+2025-06-01,Sydney,15.8,71,Cloudy
+2025-06-01,Darwin,31.5,68,Sunny
+2025-06-02,Perth,16.0,80,Rain
+2025-06-02,Sydney,14.9,77,Rain
+2025-06-02,Darwin,32.1,70,Sunny
+2025-06-03,Perth,19.4,55,Sunny
+2025-06-03,Sydney,17.2,60,Sunny
+2025-06-03,Darwin,30.8,74,Cloudy
+2025-06-04,Perth,14.1,88,Rain
+2025-06-04,Sydney,13.5,82,Rain
+2025-06-04,Darwin,33.0,66,Sunny
+2025-06-05,Perth,18.7,58,Cloudy
+2025-06-05,Sydney,16.6,64,Cloudy
+2025-06-05,Darwin,31.9,69,Sunny
